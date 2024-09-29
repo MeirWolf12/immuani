@@ -8,7 +8,7 @@ This project sets up an AWS network infrastructure using Terraform, featuring:
 - **Two isolated VPCs**: Each VPC represents a separate project (Project A and Project B).
 - **VPC Peering**: Allows secure, private communication between the two VPCs.
 - **Security Groups**: Control access to instances, ensuring that only necessary traffic is allowed based on Zero Trust principles.
-- **Transit Gateway** (optional): Provides a scalable solution for managing multiple VPCs in the future.
+- **Transit Gateway** : Provides a scalable solution for managing multiple VPCs in the future.
 
 The setup ensures secure east-west traffic (internal communication) and provides the flexibility to scale the network.
 
