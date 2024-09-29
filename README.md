@@ -1,5 +1,5 @@
 
-# Terraform AWS Network Architecture
+# Terraform AWS Network Architecture for Home Assignment
 
 ## Project Overview
 
